@@ -36,7 +36,7 @@ export default function Portfolio() {
           </div>
           <div className="bottom-content">
             <div className="container">
-              <div className="row g-5">
+              <div className="row g-md-5 g-sm-2">
                {images.map((img, index)=>{
                  return <div className="col-lg-4 col-md-6">
                   <div

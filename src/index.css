@@ -55,7 +55,8 @@
 }
 .home{
     background-color: #1abc9c;
-    padding: 55px;
+    padding: 48px;
+    min-height: calc(-106px + 100vh);
 }
 .top-content img{
     width: 100%;
